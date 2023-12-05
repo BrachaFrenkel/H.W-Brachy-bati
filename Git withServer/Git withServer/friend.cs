@@ -1,6 +1,10 @@
-﻿namespace Git_withServer
+﻿namespace Git_withServer;
+
+public class Friend
 {
-    public class friend
-    {
-    }
+    public string FirstName { get; set; }
+    public string LastName { get; set; } 
+    public string Phone { get; set; }
+   
+
 }
