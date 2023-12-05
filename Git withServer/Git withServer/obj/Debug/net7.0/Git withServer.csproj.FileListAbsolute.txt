@@ -1,0 +1,33 @@
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\appsettings.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Git withServer.exe
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Git withServer.deps.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Git withServer.runtimeconfig.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Git withServer.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Git withServer.pdb
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.csproj.AssemblyReference.cache
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.AssemblyInfoInputs.cache
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.AssemblyInfo.cs
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.csproj.CoreCompileInputs.cache
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets\msbuild.Git withServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets\msbuild.build.Git withServer.props
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Git withServer.props
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Git withServer.props
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\scopedcss\bundle\Git withServer.styles.css
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.csproj.CopyComplete
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\refint\Git withServer.dll
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.pdb
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\Git withServer.genruntimeconfig.cache
+C:\Users\פרנקל ברכה\Desktop\H.W-Brachy-bati\Git withServer\Git withServer\obj\Debug\net7.0\ref\Git withServer.dll

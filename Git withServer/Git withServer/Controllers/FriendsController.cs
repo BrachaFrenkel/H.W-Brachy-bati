@@ -8,12 +8,22 @@ namespace Git_withServer.Controllers
     [ApiController]
     public class FriendsController : ControllerBase
     {
-        MyFriends myFriends=new();
-      
+        MyFriends myFriends = new();
+        //[HttpGet]
+        //public List<Friend> Get()
+        //{
+        //  return  myFriends.GetFriends();
+        //}
+        [HttpGet]
+        public string getString()
+        {
+            return "Either friendship or death";
+        }
         [HttpPost]
         public void add(Friend friend)
         {
             myFriends.addFriend(friend);
         }
+        
     }
 }

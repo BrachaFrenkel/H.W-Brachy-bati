@@ -7,6 +7,10 @@ public class MyFriends
     {
         friends = new List<Friend>();
     }
+    public List<Friend> GetFriends()
+    {
+        return friends;
+    }
    public void addFriend(Friend friend)
     {
         friends.Add(friend);

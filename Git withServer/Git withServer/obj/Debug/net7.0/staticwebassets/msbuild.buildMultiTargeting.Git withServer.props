@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Git withServer.props" />
+</Project>
