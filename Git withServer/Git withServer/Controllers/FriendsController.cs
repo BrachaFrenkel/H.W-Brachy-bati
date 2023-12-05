@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Git_withServer.Controllers
@@ -7,5 +8,12 @@ namespace Git_withServer.Controllers
     [ApiController]
     public class FriendsController : ControllerBase
     {
+        MyFriends myFriends=new();
+      
+        [HttpPost]
+        public void add(Friend friend)
+        {
+            myFriends.addFriend(friend);
+        }
     }
 }
