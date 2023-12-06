@@ -17,7 +17,7 @@ namespace Git_withServer.Controllers
         [HttpGet]
         public string getString()
         {
-            return "Either friendship or death";
+            return "Brachi is my best friend!";
         }
         [HttpPost]
         public void add(Friend friend)
