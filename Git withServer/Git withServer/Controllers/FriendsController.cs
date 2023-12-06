@@ -24,6 +24,10 @@ namespace Git_withServer.Controllers
         {
             myFriends.addFriend(friend);
         }
-        
+        [HttpPut]
+        public void put(Friend friend)
+        {
+            myFriends.updateFriend(friend);
+        }
     }
 }

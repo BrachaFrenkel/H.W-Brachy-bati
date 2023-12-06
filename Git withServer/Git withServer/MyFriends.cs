@@ -15,4 +15,10 @@ public class MyFriends
     {
         friends.Add(friend);
     }
+
+    public void updateFriend(Friend friend)
+    {
+        friends.Add(friend);
+        friends.FirstOrDefault(p => p.LastName == friend.LastName).Phone = friend.Phone;
+    }
 }
